@@ -4,7 +4,7 @@ Diabetes Predictor is a Flutter App that is used to predict wether user has diab
 
 ![about](https://github.com/Nitesh-thapliyal/Diabetes-Predictor-App/blob/master/src/about.png)
 
-User inputs the value of:
+## User inputs the value of:
 - Number of time pregnant
 - Diastolic Blood Pressure
 - Tricep skin fold thickness
@@ -15,7 +15,7 @@ User inputs the value of:
 
 ![about](https://github.com/Nitesh-thapliyal/Diabetes-Predictor-App/blob/master/src/main.png)
 
-Tech Stack used: 
+## Tech Stack used: 
 - Frontend(Flutter, dart)
 - Backend (Deep Learning Model, python CGI)
 - Backend host ( AWS)
