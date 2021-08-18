@@ -19,3 +19,5 @@ Diabetes Predictor is a Flutter App that is used to predict wether user has diab
 - Frontend(Flutter, dart)
 - Backend (Deep Learning Model, python CGI)
 - Backend host ( AWS)
+
+📑Here is a blog that contains detail information about app[blog](https://dev.to/niteshthapliyal/diabetes-predictor-app-1e26)
